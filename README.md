@@ -60,7 +60,7 @@ $H_a$: изменение есть
 
 Результаты:
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/356363a9-82e0-4e3a-b996-e80634435d29" alt="V">
+  <img src="https://github.com/user-attachments/assets/e3283bf7-1f1e-4259-aed0-6794273df15b" alt="123">
 </div>
 
 Очевидно, что если нам интересно максимизировать прибыль, то фиксация момента, когды мы принимаем решение, нам в данной игре (подчеркиваю, что не в реальной жизни) не помогает.
