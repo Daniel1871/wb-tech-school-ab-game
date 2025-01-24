@@ -42,7 +42,7 @@ $H_a$: изменение есть
 
 В этом эксперименте старался брать задачи так, чтобы они пересекались, например так:
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/9c38b073-dc01-4d82-ba4c-2738cd22d065" alt="photo" style="width:55%;">
+  <img src="https://github.com/user-attachments/assets/9c38b073-dc01-4d82-ba4c-2738cd22d065" alt="photo" style="width:55%;>
 </div>div>
 Ожидаю, что если нужно брать *непересекающиеся* задачи, то мы серьезно порежем доход начального эксперимента ≈718.000 и его конверсию 11.84%. 
 
@@ -59,7 +59,7 @@ $H_a$: изменение есть
 
 Результаты:
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/356363a9-82e0-4e3a-b996-e80634435d29" alt="V" style="width:55%;">
+  <img src="https://github.com/user-attachments/assets/356363a9-82e0-4e3a-b996-e80634435d29" alt="V">
 </div>
 
 
