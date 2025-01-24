@@ -44,9 +44,11 @@ $H_a$: изменение есть
 <div align="center">
   <img src="https://github.com/user-attachments/assets/9c38b073-dc01-4d82-ba4c-2738cd22d065" alt="photo" style="width:55%;>
 </div>div>
+    
 Ожидаю, что если нужно брать *непересекающиеся* задачи, то мы серьезно порежем доход начального эксперимента ≈718.000 и его конверсию 11.84%. 
 
 Проведя 2 эксперимента с пересекающимися задачами, я получил следующие результаты: 
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/ca6e330c-513a-4728-b7d4-5fe3c0263ddc" alt="table2" style="width:50%;">
 </div>
