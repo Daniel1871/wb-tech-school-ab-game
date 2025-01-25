@@ -30,7 +30,7 @@ $H_a$: изменение есть
   <img src="https://github.com/user-attachments/assets/3de35597-8fe3-488d-bd0b-bf2ca216d25b" alt="table" style="width:70%;">
 </div>
 
-Так я получил наибольший доход за все эксперименты ≈`929.000` и наибольшую конверсию `18.21%`.
+Так я получил наибольший доход за все эксперименты ≈`929.000` (более чем двухкратное увеличение начального бейзлайна) и наибольшую конверсию `18.21%`.
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/8ab21529-3df0-4a74-b0a4-d6a17a30cb91" alt="big big">
